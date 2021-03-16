@@ -4,7 +4,7 @@ Prototipo de autenticação com NodeJS utilizando API do Twitter
 
 ## Autenticação via Twitter com NodeJS
 
-![Twitter authentication](./.github/twitter-auth.png)
+![Twitter authentication](./.github/twitter-authenticate.png)
 
 ## 🚀 Projeto
 
