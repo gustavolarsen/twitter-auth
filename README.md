@@ -10,7 +10,7 @@ Prototipo de autenticação com NodeJS utilizando API do Twitter
 
 Este é um pequeno projeto para testar a implementação de autenticação através de logins em redes sociais. Para este protótipo escolhi a autenticação utilizando a API do Twitter.
 
-Para a integração foi utilizado o módulo `passpor-twitter` que permite uma criação de auteunticação simples entre NodeJS e o Twitter.
+Para a integração foi utilizado o módulo `passport-twitter` que permite uma criação de auteunticação simples entre NodeJS e o Twitter.
 
 ## 📦 Dependências
 
