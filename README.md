@@ -6,8 +6,6 @@ Prototipo de autenticação com NodeJS utilizando API do Twitter
 
 ![Twitter authentication](./.github/twitter-auth.png)
 
-<hr>
-
 ## 🚀 Projeto
 
 Este é um pequeno projeto para testar a implementação de autenticação através de logins em redes sociais. Para este protótipo escolhi a autenticação utilizando a API do Twitter.
